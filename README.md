@@ -1,3 +1,4 @@
+
 # Repositorio 0
 Primeiro repositório do curso, pelo Cursoemvídeo
 
@@ -63,3 +64,5 @@ Basta usar @, @gafanhotos
 
 * Fazendo um reply
 Use > antes do que será dito ou selecione "Quote reply" na mensagem de quem respondeu o issue
+
+[guia-markdown.pdf](https://github.com/user-attachments/files/28395935/guia-markdown.pdf)
